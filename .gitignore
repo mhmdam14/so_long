@@ -29,6 +29,7 @@
 *.dylib
 
 # Executables
+so_long
 *.exe
 *.out
 *.app
@@ -53,3 +54,6 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Folders
+obj
