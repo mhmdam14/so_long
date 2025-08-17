@@ -21,7 +21,7 @@ This project helped me improve my skills in graphics programming, event handling
 Clone the repository and compile:
 
 ```bash
-git clone https://github.com/your-username/so_long.git
+git clone https://github.com/mhmdam14/so_long.git
 cd so_long
 make
 ./so_long maps/map.ber
