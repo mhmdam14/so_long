@@ -3,7 +3,6 @@
 [![42](https://img.shields.io/badge/42-So%20Long-blue)](https://42.fr)
 [![C](https://img.shields.io/badge/Language-C-orange)](https://www.cprogramming.com/)
 [![MinilibX](https://img.shields.io/badge/Graphics-MinilibX-green)](https://github.com/42Paris/minilibx-42)
-[![License](https://img.shields.io/badge/License-42%20School-lightgrey)](https://42.fr)
 
 A 2D top-down maze game built in C using the MinilibX graphics library. Navigate through mazes, collect all items, and reach the exit to win!
 
