@@ -36,6 +36,7 @@ so_long
 *.i*86
 *.x86_64
 *.hex
+*.gif
 
 # Debug files
 *.dSYM/
